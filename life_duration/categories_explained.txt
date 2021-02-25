@@ -1,0 +1,39 @@
+content_dead :
+				- Error. Page cannot be displayed. Please contact your service provider for more details. (30)
+				- might be temporarily down or it may have moved permanently to a new web address. (unless redirect url indicates parked)
+				
+zombie:
+				- mp3 files download
+				- non news blog, e.g.
+					abcnews.com.co/20191101174419 health-life-facts
+					americanoverlook.com/20150102162524--->rest videos-non politic news
+				- adult content
+parked:
+				- This Domain Name Has Expired - Renewal Instructions. (non intrusive)
+				- This domain has expired and is now suspended. If you would like to restore it please contact the registrar used to register your domain. You can check the registrar used for your domain at whois.CO. (intrusive)
+				WebRover, Inc. provides one-stop shopping for web site hosting and business connectivity services (intrusive)
+				- This domain has expired. If you owned this domain, contact your domain registration service provider for further assistance. If you need help identifying your provider, visit https://www.tucowsdomains.com/ (non intrusive)
+
+parked&ads:
+				- The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner maintain any relationship with the advertisers.
+				- Sponsored listings (no domain name)
+
+dormant:
+				- page structured, but no articles, e.g.
+					channel18news.com/20170916173826
+				- coming soon. subscribe
+
+------------------
+some sites change infrequently: 
+	americanoverlook.com/20150102162524--->rest
+	cityworldnews.com/201604 --> rest
+	civictribune.com/201703 --> 201910
+	conservativespirit.com/20170601013646 --> 20190315045907
+	elkoshary.com/2013 -> rest
+
+js based:
+	cannasos.com (after some timestamps)
+
+
+reference to other sites:
+	libertyalliance.com/20120905084202
